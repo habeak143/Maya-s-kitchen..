@@ -1,5 +1,6 @@
 
-Welcome to Maya's kitchen please wait while we redirect you to whatsapp please text "Hi" for the menu We apologice for any inconvince
+# Welcome to Maya's kitchen
+Please wait while we redirect you to whatsapp please text "Hi" for the menu.We apologice for any inconvince
 <!DOCTYPE html>
 <html lang="en">
 <head>
